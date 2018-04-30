@@ -7,4 +7,4 @@ To generate your SSH keys,please use PuTTY.
 
 In this video you will find everything you need to know.
 
-https://www.youtube.com/watch?v=StTqXEQ2l-Y
+https://www.youtube.com/watch?v=DDjSjC4SAYM
